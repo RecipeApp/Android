@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ingredients>
+<Ingredient-Other><Ingredient-Name>Bread</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Other>
+<Ingredient-Other><Ingredient-Name>Curd</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Other>
+<Ingredient-Other><Ingredient-Name>Khoya</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Other>
+<Ingredient-Other><Ingredient-Name>Tortillas</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Other>
+<Ingredient-Other><Ingredient-Name>Maida/Fine Flour</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Other>
+<Ingredient-Other><Ingredient-Name>Methi/Fenugreek</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Other>
+<Ingredient-Other><Ingredient-Name>Paneer</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Other>
+<Ingredient-Other><Ingredient-Name>Ridgegourd</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Other>
+<Ingredient-Other><Ingredient-Name>Saffron</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Other>
+<Ingredient-Other><Ingredient-Name>Tamarind</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Other>
+<Ingredient-Other><Ingredient-Name>Yam</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Other>
+<Ingredient-Grain><Ingredient-Name>Rice</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Grain>
+<Ingredient-Grain><Ingredient-Name>Dalia</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Grain>
+<Ingredient-Grain><Ingredient-Name>Oats</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Grain>
+<Ingredient-Grain><Ingredient-Name>Rava</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Grain>
+<Ingredient-Grain><Ingredient-Name>Sabudhana</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Grain>
+<Ingredient-Grain><Ingredient-Name>Wheat</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Grain>
+<Ingredient-Meet><Ingredient-Name>Beef</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Meet>
+<Ingredient-Meet><Ingredient-Name>Chicken</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Meet>
+<Ingredient-Meet><Ingredient-Name>Crab meat</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Meet>
+<Ingredient-Meet><Ingredient-Name>Egg</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Meet>
+<Ingredient-Meet><Ingredient-Name>Fish</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Meet>
+<Ingredient-Meet><Ingredient-Name>Mutton</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Meet>
+<Ingredient-Meet><Ingredient-Name>Shrimp</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Meet>
+<Ingredient-Meet><Ingredient-Name>Turkey/chicken</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Meet>
+
+<Ingredient-Pulse><Ingredient-Name>Chana dal</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Pulse>
+<Ingredient-Pulse><Ingredient-Name>Dal</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Pulse>
+<Ingredient-Pulse><Ingredient-Name>Moong dal</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Pulse>
+<Ingredient-Pulse><Ingredient-Name>Rajma</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Pulse>
+<Ingredient-Pulse><Ingredient-Name>Urad dal</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Pulse>
+<Ingredient-Pulse><Ingredient-Name>Toor dal</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Pulse>
+
+<Ingredient-Vegetable><Ingredient-Name>Asparagus</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Beans</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Beetroot</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Bhindi/Okra</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Brinjal</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Broccoli</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Capsicum</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Carrot</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Cauliflower/Gobi</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Celery</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Chick peas</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Corn</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Drumsticks</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Eggplant</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Green beans</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Green peas</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Lotus root</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Mushroom</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Palak</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Peas</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Potato</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Radish</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Red cabbage</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Spinach</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Sweet potato</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Taro root/Arbi</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+<Ingredient-Vegetable><Ingredient-Name>Tulsi</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Vegetable>
+
+
+<Ingredient-Fruit><Ingredient-Name>Apple</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+<Ingredient-Fruit><Ingredient-Name>Banana</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+<Ingredient-Fruit><Ingredient-Name>Berries</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+<Ingredient-Fruit><Ingredient-Name>Coconut</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+<Ingredient-Fruit><Ingredient-Name>Cranberries</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+<Ingredient-Fruit><Ingredient-Name>Strawberries</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+<Ingredient-Fruit><Ingredient-Name>Guavas</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+<Ingredient-Fruit><Ingredient-Name>Lychee</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+<Ingredient-Fruit><Ingredient-Name>Mango</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+<Ingredient-Fruit><Ingredient-Name>Pineapple</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+<Ingredient-Fruit><Ingredient-Name>Pumpkin</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+<Ingredient-Fruit><Ingredient-Name>Raspberries</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+<Ingredient-Fruit><Ingredient-Name>Strawberries</Ingredient-Name><Is-Common-Ingredient>No</Is-Common-Ingredient></Ingredient-Fruit>
+
+<Basic-Ingredient><Ingredient-Name>Asaefoetida</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Besan</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Black pepper</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Butter</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Cardamom/Ilaichi</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Chilli</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Cilantro</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Cinnamon</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Cloves/long</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Coriander</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Cumin seeds</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Garam masala</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Garlic</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>ginger</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Green chilli</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Lemon</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Milk</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Mustard</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Onion</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Red Chillies</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Rice</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Salt</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Sugar</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Tomato</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Turmeric</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Vegetable Oil</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>vinegar</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Water</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Wheat Flour</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+<Basic-Ingredient><Ingredient-Name>Yogurt</Ingredient-Name><Is-Common-Ingredient>Yes</Is-Common-Ingredient></Basic-Ingredient>
+</Ingredients>
+

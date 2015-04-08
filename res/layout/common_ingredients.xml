@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:gravity="center"
+    android:paddingBottom="10dp"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+
+    
+    <ListView android:id="@+id/common_ingredient"
+        android:layout_width="380dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:choiceMode="singleChoice"
+        android:layout_weight="1"
+        android:dividerHeight="0dp"
+        android:background="#111"/>
+    
+        
+      	<Button 
+	    android:id="@+id/saveIngredientsButton"
+	    android:layout_width="300dp"
+	    android:layout_height="40dp"
+	    android:text="@string/Save"
+	    android:background="#a7002a"
+	    android:textColor="#ffffff"
+	    ></Button>
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  
+    <TextView android:id="@+id/recipeNameTextView" 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:textColorLink = "#a7002a"
+    android:padding="10dp"
+    android:textSize="16sp" >
+  </TextView>
+  
+      <TextView android:id="@+id/missingIngredientView" 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:textSize="16sp" 
+    android:text="Missing Ingredient"
+    android:textColor="#000000"
+     android:textStyle="bold"
+    android:background="#ffffff"
+    android:layout_below="@id/recipeNameTextView"
+    >
+  </TextView>
+    
+  <TextView android:id="@+id/rowTextView" 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:textSize="16sp" 
+    android:layout_below="@id/recipeNameTextView"
+    android:layout_toRightOf="@id/missingIngredientView"
+    >
+  </TextView>
+  
+
+  
+</RelativeLayout>
